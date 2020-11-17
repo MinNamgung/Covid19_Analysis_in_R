@@ -7,4 +7,4 @@ This analysis is done by Min Namgung for the CS 590 Data Analytics in Business u
 
 For readers' convenience, I transform the html (Rmd file) to Pdf file. The code is open by request due to the midterm policy.
 
-If there is any questions, feel free to contact me (minnamgung01@gmail.com).
+If you have any questions, feel free to contact me (minnamgung01@gmail.com).
